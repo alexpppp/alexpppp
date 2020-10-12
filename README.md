@@ -6,11 +6,11 @@ I'm Alex.
 </p>
 <p align='center'>I'm a full stack developer based in little ol' Christchurch, New Zealand.</p>
 
-- 👨‍💻 I'm currently working on projects that use Javascript, React/Redux, Node.js, Express.js, REST Api's, Relational Databases.
-- 🤔 I'm always keen to try out new tech.
+- 👨‍💻  I'm currently working on projects that use Javascript, React/Redux, Node.js, Express.js, REST Api's, Relational Databases.
+- 🤔  I'm always keen to try out new tech.
 
 ### Reach me at
-📫  <p>acoprocter@gmail.com</p>
+<p>📫  acoprocter@gmail.com</p>
 
 
 
